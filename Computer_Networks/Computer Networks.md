@@ -1,6 +1,8 @@
 # Computer Networks
 
-Quick refresher
+[TOC]
+
+*]()Quick refresher
 
 ![Day 51: Understanding the OSI Model | by Anonymous | Medium](https://miro.medium.com/max/1024/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg)
 
@@ -1115,7 +1117,7 @@ Packets take a variable amount of time to travel between hosts. This causes out 
 - The writing of data to TCP element is decoupled from reading of that data
   - Imagine you write four 512KB blocks. They may be divided into eight 256KB blocks or two 1024KB blocks. The transport entity is responsible. 
 
-
+<u><u>![]()</u></u>
 
 **Sequence Numbers and Segmentation**
 
